@@ -32,6 +32,11 @@ Additionally, MISP provides a means to add a sharing group, where an analyst can
 
 ![image](https://github.com/user-attachments/assets/6245f0dc-2afe-462d-873a-a8f11736b743)
 
+![image](https://github.com/user-attachments/assets/908e0e9c-6072-4d2a-b93a-56fa5c434bd8)
+
+![image](https://github.com/user-attachments/assets/cd56c890-147b-4a27-9219-9ff36c0ff803)
+
+
 
 
 
