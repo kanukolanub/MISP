@@ -4,10 +4,11 @@
 
 This repository contains a project on how to create an event based on an investigation of Emotet Epoch 4 infection with Cobalt Strike and Spambot from malware-traffic-analysis.net.
 
-## SCENARIO
-You have captured network traffic on your network after suspicion of data exfiltration being done on the network. This traffic corresponds to FTP connections that were established. Your task is to analyse the traffic and create a case on TheHive to facilitate the progress of an investigation. 
+**Event Management**
+The Event Actions tab is where you, as an analyst, will create all malware investigation correlations by providing descriptions and attributes associated with the investigation. Splitting the process into three significant phases, we have: 
 
-## PROJECT
-Analyse the FTP traffic and create a case on TheHive to facilitate the progress of an investigation. 
-* Key Topics: FTP Traffic, Data Exfiltration
-* Tools: TheHive, FTP PCAP file.
+* Event Creation.
+* Populating events with attributes and attachments.
+* Publishing.
+  
+![image](https://github.com/user-attachments/assets/ca9917e6-a53f-451c-b07b-87b29e998aee)
